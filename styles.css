@@ -56,13 +56,13 @@ ul {
 	content: '';
 	display: block;
 	position: relative;
-  left: 326px;
+  left: 95%;
   top: -3px;
   width: 0;
   height: 0;
   border-style: solid;
   border-width: 6px 6px 0 6px;
-  border-color: lightgrey transparent transparent transparent;
+  border-color: #d3d3d3 transparent transparent transparent;
 }
 
 .image-number {
@@ -73,7 +73,7 @@ ul {
 }
 
 .image-number::before {
-  content:"#";
+  content:'#';
 }
 
 .image-caption {
