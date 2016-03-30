@@ -7,6 +7,8 @@ This project was created to fulfill an assignment for The Iron Yard Charleston's
 
 ----------------------------------
 
+Week 1, Day 2
+
 HTML Layouts - Octocats
 Let's practice our CSS skills by giving an existing HTML page a custom layout.
 
