@@ -3,7 +3,7 @@ A Github layout built with CSS from a wireframe image and existing HTML
 
 ----------------------------------
 
-This project was created to fulfill an assignment for The Iron Yard Charleston's Front-End Engineering course. The original ssignment text is below:
+This project was created to fulfill an assignment for The Iron Yard Charleston's Front-End Engineering course. The original assignment text is below:
 
 ----------------------------------
 
