@@ -1,4 +1,4 @@
-# layouts1.2
+# Octocats Layout
 A Github layout built with CSS from a wireframe image and existing HTML
 
 ----------------------------------
